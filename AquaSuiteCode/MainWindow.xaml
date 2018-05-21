@@ -50,7 +50,7 @@
         Width="100">
         <Image  
             x:Name="myImg"            
-            Source="C:\Program Files\aquasuite\Content\images/running_fan_black.png"
+            Source="/ressources/running_fan_black.png"
             Opacity="1.0"
             Height="25" 
             Width="25" 

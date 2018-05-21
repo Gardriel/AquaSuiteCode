@@ -58,7 +58,6 @@
             Stretch="UniformToFill" 
             StretchDirection="Both"
             HorizontalAlignment="Left">
-
             <i:Interaction.Triggers>
                 <i:EventTrigger SourceObject="{Binding DataContext, ElementName=this}" EventName="StartAnimation">
                     <im:ControlStoryboardAction Storyboard="{StaticResource sb}" ControlStoryboardOption="Play"/>
